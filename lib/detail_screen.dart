@@ -46,13 +46,12 @@ class DetailsScreen extends StatelessWidget {
                 padding: const EdgeInsets.all(20),
                 decoration: BoxDecoration(
                   border: Border.all(color: Theme.of(context).primaryColorDark),
-                  shape: BoxShape.circle
+                  shape: BoxShape.rectangle
                 ),
                 child: Stack(
                   alignment: Alignment.center,
                   children: [
-                    const CircleAvatar(
-                      radius: 100,
+                    const CircleAvatar(radius: 100,
                       backgroundColor: Color(0xfffad1b1),
                     ),
                     Hero(
