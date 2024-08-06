@@ -1,7 +1,10 @@
 # watch_store
 
 # Screenshot
-<img src="https://github.com/rashmi2201/cookie_store/blob/main/assets/output/Screenshot_1722408099.png" height="400">
+<img src="https://github.com/rashmi2201/watch_store/blob/main/assets/output/Screenshot_1722936393.png" height="400">
+
+<img src="https://github.com/rashmi2201/watch_store/blob/main/assets/output/Screenshot_1722936399.png" height="400">
+
 
 A new Flutter project.
 
